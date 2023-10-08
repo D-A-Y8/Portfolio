@@ -25,3 +25,5 @@ Python, Pandas, NumPy, Matplotlib, предобработка данных, ис
 Эти три рейтинга верхние по продажам во всех регионах. В Европе и Северной Америке популярнее M и E, в Японии T и E.
 
 **Рекомендуется делать ставку на игры, отвечающие критериям выше, для планирования рекламных кампаний.**
+
+[Ссылка на тетрадку с проектом.](https://github.com/D-A-Y8/Portfolio/blob/main/Users%20behavior%20analysis/Mobile%20application%20users%20behavior%20analysis.ipynb)
