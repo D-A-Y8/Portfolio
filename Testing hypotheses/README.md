@@ -6,7 +6,7 @@
 - Определить, есть ли разница в конверсии между группами в A/B-тесте и решить, стоит ли продолжать тест. 
 
 ## Инструменты
-Python, Pandas, NumPy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез.
+Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез.
 
 ## Выводы 
 Проект завершён. 
@@ -18,4 +18,4 @@ Python, Pandas, NumPy, Matplotlib, предобработка данных, ис
  
 **Рекомендуется остановить тест, так как преимущество конверсии в группе В не падает ниже 10% и группу В можно признать победителем теста.**
 
-[Ссылка на тетрадку с проектом.](https://github.com/D-A-Y8/Portfolio/blob/main/Computer%20games%20sales%20analysis/Computer%20games%20sales%20analysis.ipynb)
+[Ссылка на тетрадку с проектом.](https://github.com/D-A-Y8/Portfolio/blob/main/Testing%20hypotheses/Testing%20hypotheses%20to%20increase%20the%20revenue%20of%20an%20online%20store.ipynb)
