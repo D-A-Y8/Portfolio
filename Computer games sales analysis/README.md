@@ -26,4 +26,4 @@ Python, Pandas, NumPy, Matplotlib, предобработка данных, ис
 
 **Рекомендуется делать ставку на игры, отвечающие критериям выше, для планирования рекламных кампаний.**
 
-[Ссылка на тетрадку с проектом.](https://github.com/D-A-Y8/Portfolio/blob/main/Users%20behavior%20analysis/Mobile%20application%20users%20behavior%20analysis.ipynb)
+[Ссылка на тетрадку с проектом.](https://github.com/D-A-Y8/Portfolio/blob/main/Computer%20games%20sales%20analysis/Computer%20games%20sales%20analysis.ipynb)
