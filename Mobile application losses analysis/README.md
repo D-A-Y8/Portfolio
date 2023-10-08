@@ -20,4 +20,4 @@ Python, Pandas, Matplotlib, Seaborn, когортный анализ, юнит-�
 
 **Необходимо отдельно исследовать данные с отметками о событиях в приложении для анализа возможных технических проблем. На данный момент эти данные не предоставлены.**
 
-[Ссылка на тетрадку с проектом.](https://github.com/D-A-Y8/Portfolio/blob/main/Testing%20hypotheses/Testing%20hypotheses%20to%20increase%20the%20revenue%20of%20an%20online%20store.ipynb)
+[Ссылка на тетрадку с проектом.](https://github.com/D-A-Y8/Portfolio/blob/main/Mobile%20application%20losses%20analysis/Mobile%20application%20losses%20analysis.ipynb)
